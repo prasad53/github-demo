@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-hi
-hello
-=======
-Hello
->>>>>>> demobranch
