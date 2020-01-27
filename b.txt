@@ -4,3 +4,4 @@ hello
 how are you
 Multiple stash ex.
 File B
+Tag
