@@ -4,6 +4,3 @@ hi
 789
 abcd
 File A
-Rebase
-Rebase2
-rebase 3
