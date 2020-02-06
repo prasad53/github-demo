@@ -4,4 +4,4 @@ hi
 789
 abcd
 File A
-Conflict from master
+Rebase
